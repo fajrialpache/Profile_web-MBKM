@@ -1,11 +1,11 @@
 // If Else
-// let umur = 18;
+let umur = 18;
 
-// if (umur >= 18) {
-//   console.log("Anda dewasa.");
-// } else {
-//   console.log("Anda masih anak-anak.");
-// }
+if (umur >= 18) {
+  console.log("Anda dewasa.");
+} else {
+  console.log("Anda masih anak-anak.");
+}
 
 // nested if
 let nilai = 69;
